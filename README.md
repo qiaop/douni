@@ -1,4 +1,5 @@
 # douni
+
 **一个微信公众号开发的项目**
 
  - 项目使用Spring，SpringMVC，Hibernate开发,使用mysql，搭建好了基本框架
@@ -8,3 +9,6 @@
 <hr>
 附上链接
 [https://github.com/qiaop/douni](https://github.com/qiaop/douni)
+
+**微信公众号项目**
+
